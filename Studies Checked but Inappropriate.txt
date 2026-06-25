@@ -34,3 +34,34 @@ Sarafoglou et al. (2024) - Subjective Evidence Evaluation Survey for Many-Analys
             within many-analyst studies to capture analysts' subjective reasoning.
             It is a tool, not itself a many-analyst data collection.
 
+Fillard et al. (2011) - Quantitative Evaluation of 10 Tractography Algorithms on a Realistic Diffusion MR Phantom - NeuroImage
+    REASON: An algorithm-benchmark "grand challenge" comparing software/algorithms
+            on shared phantom data, not analysts making analytic decisions on a
+            research question. Outside the intended many-analyst scope.
+
+"Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse" (2026) - arXiv 2602.18710
+    REASON: Uses AI/LLM agents (not teams of human analysts) as the "analysts".
+            An AI analog of the many-analyst design; out of scope for this human
+            many-analyst contact list. (Related AI-analyst papers: Grundl 2026,
+            McCully 2026 - same exclusion.)
+
+Delios et al. (2022) - Examining the Generalizability of Research Findings from Archival Data - PNAS 119(30)
+    REASON: A reproduction/generalizability project: one coordinating team repeats
+            29 strategic-management effects in direct reproductions and in novel
+            time periods/geographies (plus a forecasting survey). This is mass
+            reproduction/generalizability (many DIFFERENT effects), not many
+            independent teams analyzing the SAME dataset/task.
+
+Rohrer, Davey Smith & Munafo (2025) - What Can Be Learned When Multiple Analysts Arrive at Different Estimates - European Journal of Epidemiology
+    REASON: Commentary/editorial discussing the many-analyst approach (accompanying
+            Kowall et al.'s epidemiology multi-analyst study). Not an original
+            many-analyst data collection.
+
+Aczel et al. (2021) - Consensus-based Guidance for Conducting and Reporting Multi-Analyst Studies - eLife 10:e72185
+    REASON: METHODOLOGY / guidance paper on how to conduct & report many-analyst
+            studies. Not itself a many-analyst data collection.
+
+Kummerfeld & Jones (2023) - One Data Set, Many Analysts: Implications for Practicing Scientists - Frontiers in Psychology
+    REASON: Perspective/implications paper discussing the many-analyst phenomenon.
+            Not an original many-analyst study.
+

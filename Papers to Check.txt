@@ -19,4 +19,5 @@
 # Studies Checked but Inappropriate.txt.
 # ============================================================================
 
-# (queue currently EMPTY — all seeded candidates processed. Next: Google Scholar expansion pass.)
+# (QUEUE EMPTY — seed pass + 2 Google Scholar expansion passes complete. 24 studies
+#  recorded in Contact Info.xlsx; 10 filed as inappropriate. See PROGRESS.md.)
