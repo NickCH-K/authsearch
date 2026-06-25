@@ -2,15 +2,32 @@
 
 > Single source of truth for "where are we". Update before stopping.
 
-## Status: PASS COMPLETE — queue empty after seed + 2 Google Scholar expansion passes
+## Status: PASS COMPLETE — queue empty after seed + 2 Scholar passes + user-list pass
 
 Last updated: 2026-06-25
 
 ## Tallies
-- Confirmed studies in Contact Info.xlsx: **24 studies / 58 organizer rows**
-  (3 organizer rows are FAILED TO FIND — all co-organizers, not leads)
+- Confirmed studies in Contact Info.xlsx: **30 studies / 66 organizer rows**
+  (4 organizer rows are FAILED TO FIND — Razen, Lundberg, McLanahan, Fillard)
 - Items remaining in Papers to Check.txt: **0**
-- Studies Checked but Inappropriate.txt: **10**
+- Studies Checked but Inappropriate.txt: **19**
+
+## Round 3 (user-provided MultiAnalyst_Projects.docx, ~2022) — added 6 studies
+- Multi100 / Aczel & Szaszi 2025 (Nature) — 100 social-science claims re-analyzed.
+- Maier-Hein et al. 2017 (Nat Commun) — diffusion tractography challenge.
+- Veronese et al. 2021 (JCBFM) — NRM2018 PET grand challenge.
+- FIAC 2006 (Human Brain Mapping) — fMRI expert-analysis contest (Poline, Strother).
+- Fillard et al. 2011 (NeuroImage) — Fiber Cup tractography challenge (MOVED from
+  inappropriate to included, per the user's list treating these challenges as
+  many-analyst).
+- Riemann 2003 (FQS) — qualitative "doing biographical research" joint project.
+Duplicates/commentaries from that doc filed as inappropriate: MAPS (= Schweinsberg
+2021 data), Many Speech Analyses (= Coretta 2023), Nørgaard 2019, Breznau 2021,
+Auspurg & Brüderl 2021, Silberzahn & Uhlmann 2015, Uhlmann 2019, Wagenmakers 2022a/b.
+The broader post-2022 Scholar sweep surfaced no further human many-analyst studies
+not already tracked (only AI-analyst papers, methodology, and known studies).
+DECISION: neuroimaging "grand challenges" (FIAC/Fillard/Maier-Hein/Veronese) are now
+treated as IN scope, aligning with the user's authoritative list.
 
 ## Confirmed many-analyst studies (24)
 Economics/finance: Huntington-Klein et al. 2021; Huntington-Klein & Pörtner 2026
@@ -67,3 +84,13 @@ deemed in-scope.
   studies" (Many Labs / mass replication) does NOT.
 - Multiverse (one team, many specs) does NOT count.
 - AI-agent "many-analyst" studies were treated as out of scope (human teams only).
+
+## Round 4 (2026-06-25): added Abstract + ManyAnalystStyle columns
+- Contact Info.xlsx now has two extra columns after Notes:
+  * Abstract = faithful summary (own words) of each study's abstract.
+  * ManyAnalystStyle = how the many-analyst design was used (N analysts/teams,
+    coordination/peer-review/blinding/platform features, the point) plus an
+    'Interview value' flag for judging whether organizers are worth interviewing
+    about the logistics of organizing analysts.
+- Values are per-study, repeated across that study's organizer rows.
+- Helper: scripts/annotate.py (init/set/status); source data: scratch/annotations.json.
