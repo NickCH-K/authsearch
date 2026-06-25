@@ -18,3 +18,19 @@ Holzmeister et al. (2024) - Heterogeneity in Effect Size Estimates - PNAS 121(32
             datasets, e.g. Nonstandard Errors and the 45-team competition study,
             are tracked separately.)
 
+Sulik et al. (2023) - Why Do Scientists Disagree? A Study of the Psychological Sciences - PsyArXiv (10.31234/osf.io/9bd8k)
+    REASON: An empirical study ABOUT the causes of scientific disagreement
+            (surveying scientists), not a many-analyst design in which multiple
+            teams analyze the same dataset. Cited by the review as background.
+
+Soebhag, Van Vliet & Verwijmeren (2024) - Non-standard Errors in Asset Pricing: Mind Your Sorts - J Empirical Finance 78
+    REASON: MULTIVERSE / specification analysis by a SINGLE team (3 authors)
+            who themselves data-mine 250+ factor-construction versions. Not
+            multiple independent analyst teams. (Title echoes Menkveld's
+            "Nonstandard Errors" but the design is multiverse, not many-analyst.)
+
+Sarafoglou et al. (2024) - Subjective Evidence Evaluation Survey for Many-Analysts Studies - Royal Society Open Science 11(7):240125
+    REASON: METHODOLOGY paper. Introduces a survey instrument (SEES) to be USED
+            within many-analyst studies to capture analysts' subjective reasoning.
+            It is a tool, not itself a many-analyst data collection.
+
