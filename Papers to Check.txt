@@ -1,0 +1,23 @@
+# PAPERS TO CHECK  (the work queue)
+#
+# One candidate many-analyst study per line, format:
+#   Author(s) (Year) - Short Title [optional hint]
+# Lines starting with '#' are comments/instructions and are ignored.
+#
+# PROCESS for each line (see CLAUDE.md / GOAL.md for full detail):
+#   1. Look it up online. Confirm it IS a many-analyst study (same task done by
+#      MANY independent teams). If not, move the line to
+#      "Studies Checked but Inappropriate.txt" with a reason.
+#   2. If it is: find the organizing author(s) + contact info, add row(s) to
+#      Contact Info.xlsx (use scripts/contacts.py add). FAILED TO FIND in email
+#      if a good study but no contact found.
+#   3. Mine its references + Google Scholar "cited by" for NEW many-analyst
+#      studies; append any not already tracked to this file.
+#   4. Remove the line from this file (it's done).
+#
+# Keep this list deduplicated against Contact Info.xlsx and
+# Studies Checked but Inappropriate.txt.
+# ============================================================================
+
+# (QUEUE EMPTY — seed pass + 2 Google Scholar expansion passes complete. 24 studies
+#  recorded in Contact Info.xlsx; 10 filed as inappropriate. See PROGRESS.md.)
