@@ -1,0 +1,12 @@
+# STUDIES CHECKED BUT INAPPROPRIATE
+#
+# Studies that were investigated but are NOT many-analyst studies.
+# Keep them here so we never re-check them.
+#
+# Format (one per block):
+#   <Author(s) (Year) - Title>
+#       REASON: <why it is not a many-analyst study, e.g. multiverse / replication
+#               project / commentary / methodology / re-analysis of an existing
+#               many-analyst dataset>
+# ============================================================================
+

@@ -1,0 +1,40 @@
+# PAPERS TO CHECK  (the work queue)
+#
+# One candidate many-analyst study per line, format:
+#   Author(s) (Year) - Short Title [optional hint]
+# Lines starting with '#' are comments/instructions and are ignored.
+#
+# PROCESS for each line (see CLAUDE.md / GOAL.md for full detail):
+#   1. Look it up online. Confirm it IS a many-analyst study (same task done by
+#      MANY independent teams). If not, move the line to
+#      "Studies Checked but Inappropriate.txt" with a reason.
+#   2. If it is: find the organizing author(s) + contact info, add row(s) to
+#      Contact Info.xlsx (use scripts/contacts.py add). FAILED TO FIND in email
+#      if a good study but no contact found.
+#   3. Mine its references + Google Scholar "cited by" for NEW many-analyst
+#      studies; append any not already tracked to this file.
+#   4. Remove the line from this file (it's done).
+#
+# Keep this list deduplicated against Contact Info.xlsx and
+# Studies Checked but Inappropriate.txt.
+# ============================================================================
+
+Silberzahn et al. (2018) - Many Analysts, One Data Set (soccer referee skin tone) - Adv Methods Practices Psych Sci
+Botvinik-Nezer et al. (2020) - Variability in the Analysis of a Single Neuroimaging Dataset by Many Teams (NARPS) - Nature
+Cohn (2016) - We Gave Four Good Pollsters the Same Raw Data, Four Different Results - NYT Upshot
+Landy et al. (2020) - Crowdsourcing Hypothesis Tests (Pipeline Project / Crowdsourcing Hypothesis Tests) - Psychological Bulletin
+Menkveld et al. (2024) - Nonstandard Errors - Journal of Finance (finance, 164 teams)
+Breznau et al. (2022) - Observing Many Researchers Using the Same Data and Hypothesis (immigration/social policy) - PNAS
+Schweinsberg et al. (2021) - Same Data, Different Conclusions (radical dispersion) - OBHDP
+Hoogeveen et al. (2023) - A Many-analysts Approach to the Relation between Religiosity and Well-being - Religion Brain & Behavior
+Gould et al. (2025) - Same data, different analysts: variation in effect sizes (ecology & evolutionary biology) - BMC Biology
+Holzmeister et al. (2024) - Heterogeneity in Effect Size Estimates - PNAS
+Bastiaansen et al. (2020) - Time to Get Personal? Impact of Researchers Choices on Selection of Treatment Targets (ESM) - J Psychosomatic Research
+Ostropolets et al. (2023) - Reproducible Variability: 9 Research Teams Reproduce the Same Observational Study - JAMIA
+Ortloff et al. (2023) - Different Researchers, Different Results? (qualitative security analysis) - CHI 2023
+Boehm et al. (2018) - Estimating Across-trial Variability Parameters of the Diffusion Decision Model: Expert Advice - J Math Psych
+Sulik et al. (2023) - Why Do Scientists Disagree?
+Magnus & Morgan (1997) - The Experiment in Applied Econometrics (food demand / income elasticity coordinated study) - J Applied Econometrics
+Sarafoglou et al. (2024) - Subjective Evidence Evaluation Survey for Many-Analysts Studies - Royal Society Open Science (METHODOLOGY - verify if itself a many-analyst study)
+Huntington-Klein et al. (2021) - The Influence of Hidden Researcher Decisions in Applied Microeconomics - Economic Inquiry (EXAMPLE PDF)
+Huntington-Klein & Portner / Many-Economists Collaborative (2026) - The Sources of Researcher Variation in Economics - JEL (EXAMPLE PDF)
