@@ -84,3 +84,13 @@ deemed in-scope.
   studies" (Many Labs / mass replication) does NOT.
 - Multiverse (one team, many specs) does NOT count.
 - AI-agent "many-analyst" studies were treated as out of scope (human teams only).
+
+## Round 4 (2026-06-25): added Abstract + ManyAnalystStyle columns
+- Contact Info.xlsx now has two extra columns after Notes:
+  * Abstract = faithful summary (own words) of each study's abstract.
+  * ManyAnalystStyle = how the many-analyst design was used (N analysts/teams,
+    coordination/peer-review/blinding/platform features, the point) plus an
+    'Interview value' flag for judging whether organizers are worth interviewing
+    about the logistics of organizing analysts.
+- Values are per-study, repeated across that study's organizer rows.
+- Helper: scripts/annotate.py (init/set/status); source data: scratch/annotations.json.
