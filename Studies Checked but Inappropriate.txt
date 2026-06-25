@@ -10,3 +10,11 @@
 #               many-analyst dataset>
 # ============================================================================
 
+Holzmeister et al. (2024) - Heterogeneity in Effect Size Estimates - PNAS 121(32)
+    REASON: Synthesis/framework paper (by the Innsbruck/SSE group) that
+            partitions heterogeneity into population/design/analytical components
+            using data from EXISTING crowd-sourced/many-analyst studies. It is
+            not itself a single new many-analyst data collection. (Its component
+            datasets, e.g. Nonstandard Errors and the 45-team competition study,
+            are tracked separately.)
+

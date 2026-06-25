@@ -20,11 +20,6 @@
 # ============================================================================
 
 Cohn (2016) - We Gave Four Good Pollsters the Same Raw Data, Four Different Results - NYT Upshot
-Hoogeveen et al. (2023) - A Many-analysts Approach to the Relation between Religiosity and Well-being - Religion Brain & Behavior
-Gould et al. (2025) - Same data, different analysts: variation in effect sizes (ecology & evolutionary biology) - BMC Biology
-Holzmeister et al. (2024) - Heterogeneity in Effect Size Estimates - PNAS
-Bastiaansen et al. (2020) - Time to Get Personal? Impact of Researchers Choices on Selection of Treatment Targets (ESM) - J Psychosomatic Research
-Ostropolets et al. (2023) - Reproducible Variability: 9 Research Teams Reproduce the Same Observational Study - JAMIA
 Ortloff et al. (2023) - Different Researchers, Different Results? (qualitative security analysis) - CHI 2023
 Boehm et al. (2018) - Estimating Across-trial Variability Parameters of the Diffusion Decision Model: Expert Advice - J Math Psych
 Sulik et al. (2023) - Why Do Scientists Disagree?
@@ -32,3 +27,4 @@ Magnus & Morgan (1997) - The Experiment in Applied Econometrics (food demand / i
 Sarafoglou et al. (2024) - Subjective Evidence Evaluation Survey for Many-Analysts Studies - Royal Society Open Science (METHODOLOGY - verify if itself a many-analyst study)
 Soebhag et al. (2024) - Non-standard errors in asset pricing: Mind your sorts - J Empirical Finance (VERIFY: may be multiverse not many-analyst)
 Dutilh et al. (2019) - The Quality of Response Time Data Inference: A Blinded, Collaborative Assessment - Psychonomic Bulletin & Review (VERIFY many-analyst)
+Huber et al. (2023) - Competition and Moral Behavior: A Meta-analysis of Forty-Five Crowd-Sourced Experimental Designs - PNAS 120(23) (DESIGN many-analyst; surfaced via Holzmeister 2024)
