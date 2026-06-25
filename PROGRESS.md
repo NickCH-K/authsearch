@@ -2,26 +2,39 @@
 
 > Single source of truth for "where are we". Update before stopping.
 
-## Status: SETUP COMPLETE — beginning research loop
+## Status: RESEARCH LOOP IN PROGRESS
 
 Last updated: 2026-06-25
 
 ## Tallies
-- Confirmed studies in Contact Info.xlsx: 0 studies / 0 organizer rows
-- Items remaining in Papers to Check.txt: 19
+- Confirmed studies in Contact Info.xlsx: 8 studies / 23 organizer rows
+- Items remaining in Papers to Check.txt: 13
 - Items in Studies Checked but Inappropriate.txt: 0
 
-## What's been done
-- Set up project scaffolding: GOAL.md, README.md, CLAUDE.md, this file.
-- Built helpers: `scripts/contacts.py`, `scripts/extract_pdf.py`.
-- Extracted text of both seed PDFs to `scratch/`.
-- Read both seed PDFs and seeded `Papers to Check.txt` (19 candidates) from the
-  many-analyst studies they cite.
+## Studies recorded so far (DONE)
+1. Huntington-Klein et al. (2021) Economic Inquiry — Nick H-K
+2. Huntington-Klein & Pörtner (2026) JEL — Nick H-K, Claus Pörtner
+3. Silberzahn et al. (2018) AMPPS — Silberzahn, Uhlmann
+4. Schweinsberg et al. (2021) OBHDP — Schweinsberg, Uhlmann
+5. Breznau et al. (2022) PNAS — Breznau, Rinke, Wuttke
+6. Landy et al. (2020) Psych Bulletin — Landy, Uhlmann
+7. Botvinik-Nezer et al. (2020) Nature/NARPS — Botvinik-Nezer, Schonberg, Poldrack
+8. Menkveld et al. (2024) J Finance — Menkveld + 7 coordinators (Dreber, Holzmeister,
+   Huber, Johannesson, Kirchler, Razen, Weitzel)
+
+## Emails still to verify (FAILED TO FIND or pattern-only)
+- Rotem Botvinik-Nezer (NARPS lead)
+- Eike Mark Rinke, Alexander Wuttke (Breznau co-organizers)
+- Justin F. Landy
+- Michael Razen (Nonstandard Errors)
 
 ## Next action
-- Start the loop on the top of `Papers to Check.txt`.
-- The two example PDFs (Huntington-Klein et al. 2021; Huntington-Klein & Pörtner
-  2026) are already in hand — their organizer contacts can be filled directly.
+- Continue loop on top of `Papers to Check.txt` (Cohn 2016 next).
+
+## Recurring organizers (reuse known emails)
+- Eric Luis Uhlmann: eric.luis.uhlmann@gmail.com (INSEAD) — Silberzahn, Schweinsberg, Landy
+- Anna Dreber: anna.dreber@hhs.se; Magnus Johannesson: magnus.johannesson@hhs.se (SSE)
+- Felix Holzmeister/Michael Kirchler/Juergen Huber: firstname.lastname@uibk.ac.at (Innsbruck)
 
 ## Google Scholar / search terms to (re)try when queue empties
 - "many analyst" study; "many analysts one dataset"; "same data different
