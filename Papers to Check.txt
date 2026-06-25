@@ -19,5 +19,5 @@
 # Studies Checked but Inappropriate.txt.
 # ============================================================================
 
-# (QUEUE EMPTY — seed pass + 2 Google Scholar expansion passes complete. 24 studies
-#  recorded in Contact Info.xlsx; 10 filed as inappropriate. See PROGRESS.md.)
+# (QUEUE EMPTY again — processed the user's MultiAnalyst_Projects.docx list + a
+#  broader post-2022 Google Scholar pass. See PROGRESS.md.)

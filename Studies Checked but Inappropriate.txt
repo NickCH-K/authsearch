@@ -34,10 +34,10 @@ Sarafoglou et al. (2024) - Subjective Evidence Evaluation Survey for Many-Analys
             within many-analyst studies to capture analysts' subjective reasoning.
             It is a tool, not itself a many-analyst data collection.
 
-Fillard et al. (2011) - Quantitative Evaluation of 10 Tractography Algorithms on a Realistic Diffusion MR Phantom - NeuroImage
-    REASON: An algorithm-benchmark "grand challenge" comparing software/algorithms
-            on shared phantom data, not analysts making analytic decisions on a
-            research question. Outside the intended many-analyst scope.
+# NOTE: Fillard et al. (2011) was initially filed here but has been MOVED to
+# Contact Info.xlsx (included) to align with the user-provided many-analyst list,
+# which treats the neuroimaging grand challenges (FIAC, Fillard, Maier-Hein,
+# Veronese) as many-analyst projects.
 
 "Many AI Analysts, One Dataset: Navigating the Agentic Data Science Multiverse" (2026) - arXiv 2602.18710
     REASON: Uses AI/LLM agents (not teams of human analysts) as the "analysts".
@@ -64,4 +64,41 @@ Aczel et al. (2021) - Consensus-based Guidance for Conducting and Reporting Mult
 Kummerfeld & Jones (2023) - One Data Set, Many Analysts: Implications for Practicing Scientists - Frontiers in Psychology
     REASON: Perspective/implications paper discussing the many-analyst phenomenon.
             Not an original many-analyst study.
+
+MAPS - Mapping the Analytical PathS of a Crowdsourced Data Analysis (OSF buqk8)
+    REASON: Not a separate study. It is the DataExplained analytic-path mapping of
+            the SAME crowdsourced dataset already counted as Schweinsberg et al.
+            (2021) "Same Data, Different Conclusions". Duplicate / secondary output.
+
+Norgaard et al. (2019) - Preprocessing, Prediction and Significance: Framework and Application to Brain Imaging - MICCAI 2019
+    REASON: A methodological framework / multiverse-style pipeline analysis (single
+            team systematically varying preprocessing choices), not many independent
+            analyst teams. Listed by the source doc under "methodological perspectives."
+
+Breznau (2021) - I Saw You in the Crowd: Credibility, Reproducibility, and Meta-Utility - PS: Political Science & Politics
+    REASON: Commentary / methodological perspective on crowdsourced research, not a
+            many-analyst data collection.
+
+Auspurg & Bruderl (2021) - Has the Credibility of the Social Sciences Been Credibly Destroyed? Reanalyzing the "Many Analysts, One Data Set" Project - Socius
+    REASON: Re-analysis / commentary on the Silberzahn et al. (2018) dataset. The
+            underlying many-analyst study is already tracked; this is not a new one.
+
+Silberzahn & Uhlmann (2015) - Crowdsourced Research: Many Hands Make Tight Work - Nature (Comment)
+    REASON: Magazine comment/perspective introducing the crowdsourcing-analysis idea,
+            not a many-analyst study itself.
+
+Uhlmann et al. (2019) - Scientific Utopia III: Crowdsourcing Science - Perspectives on Psychological Science
+    REASON: Perspective/agenda paper on crowdsourcing science, not a many-analyst
+            data collection.
+
+Wagenmakers, Sarafoglou & Aczel (2022a) - One Statistical Analysis Must Not Rule Them All - Nature (Comment)
+    REASON: Commentary advocating many-analyst approaches; not an original study.
+
+Wagenmakers, Sarafoglou & Aczel (2022b) - Facing the Unknown Unknowns of Data Analysis
+    REASON: Commentary / methodological perspective; not an original many-analyst study.
+
+Many Speech Analyses (MSA) - many-speech-analyses.github.io
+    REASON: Not a separate study. The MSA project IS the one published as Coretta
+            et al. (2023) "Multidimensional Signals and Analytic Flexibility"
+            (already in Contact Info.xlsx). Duplicate.
 
